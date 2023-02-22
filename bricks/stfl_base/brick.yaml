@@ -1,0 +1,13 @@
+name: stfl_base
+description: Base Stateful Widget file for all flutter pages
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.43 <0.1.0"
+vars:
+  name:
+    type: string
+    description: Widget name
+    default: Dash
+    prompt: What is your widget name?

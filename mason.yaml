@@ -1,0 +1,5 @@
+bricks:
+  - stfl_base:
+      path: bricks/stfl_base
+  - stfl_base:
+      path: bricks/sfl_base
